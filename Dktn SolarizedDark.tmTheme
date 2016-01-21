@@ -50,7 +50,7 @@ red     c23230
 				<key>foreground</key>
 				<string>#FFFFFF0A</string>
 				<key>gutter</key>
-				<string>#073642</string>
+				<string>#072F3A</string>
 				<key>gutterForeground</key>
 				<string>#405f67</string>
 				<key>invisibles</key>

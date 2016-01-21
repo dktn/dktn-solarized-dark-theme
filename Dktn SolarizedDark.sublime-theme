@@ -254,7 +254,7 @@
     {
         "class": "tab_label",
         "attributes": ["transient"],
-        "font.italic": true
+        "font.italic": false
     },
 
 //
@@ -703,7 +703,7 @@
     {
         "class": "sidebar_label",
         "attributes": ["transient"],
-        "font.italic": true
+        "font.italic": false
     },
 
 //
