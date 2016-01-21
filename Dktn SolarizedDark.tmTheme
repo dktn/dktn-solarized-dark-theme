@@ -255,7 +255,7 @@ magenta	7279D8
 			<dict>
 				<key>foreground</key>
 				<!-- <string>#b58900</string> -->
-				<string>#af005f</string>
+				<string>#7fA000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -346,7 +346,7 @@ magenta	7279D8
 			<dict>
 				<key>foreground</key>
 				<!-- <string>#859900</string> -->
-				<string>#7fA000</string>
+				<string>#af005f</string>
 			</dict>
 		</dict>
 		<dict>
