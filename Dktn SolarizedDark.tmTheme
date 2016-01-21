@@ -36,6 +36,7 @@ green	289220
 yellow	88A400
 cyan	2098b8
 magenta	7279D8
+red     d22230
  -->
 
 		<!-- Basics -->
@@ -255,7 +256,7 @@ magenta	7279D8
 			<dict>
 				<key>foreground</key>
 				<!-- <string>#b58900</string> -->
-				<string>#7fA000</string>
+				<string>#d22230</string>
 			</dict>
 		</dict>
 		<dict>
