@@ -47,11 +47,11 @@ magenta	7279D8
 				<key>caret</key>
 				<string>#eee8d5</string>
 				<key>foreground</key>
-				<string>#839496</string>
+				<string>#FFFFFF0A</string>
 				<key>gutter</key>
 				<string>#073642</string>
-                <!-- <key>gutterForeground</key> -->
-                <!-- <string>#3A4A50</string> -->
+				<key>gutterForeground</key>
+				<string>#405f67</string>
 				<key>invisibles</key>
 				<string>#586e75</string>
 				<key>lineHighlight</key>
