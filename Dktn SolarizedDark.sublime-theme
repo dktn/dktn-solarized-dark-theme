@@ -17,7 +17,7 @@
         "tab_overlap": 0,
         "tab_width": 180,
         "tab_min_width": 45,
-        "tab_height": 25,
+        "tab_height": 16,
         "mouse_wheel_switch": false
     },
     {
@@ -44,7 +44,7 @@
     {
         "class": "tab_control",
         "settings": ["show_tab_close_buttons"],
-        "content_margin": [12, 4, 7, 4]
+        "content_margin": [3, 4, 8, 0]
     },
     // Tab hover state
     {
@@ -72,7 +72,7 @@
     {
         "class": "tab_control",
         "attributes": ["dirty"],
-        "content_margin": [12, 3, 12, 3],
+        "content_margin": [3, 4, 8, 0],
         "layer0.tint": [211, 54, 130],
         "layer1.tint": [211, 54, 130],
         "layer2.tint": [211, 54, 130]
@@ -239,6 +239,7 @@
         "fg": [88, 110, 117],
         "shadow_color": [0,0,0],
         "shadow_offset": [0, 0],
+        "font.size": 9,
         "font.italic": false
     },
     {
@@ -254,6 +255,7 @@
     {
         "class": "tab_label",
         "attributes": ["transient"],
+        "font.size": 9,
         "font.italic": false
     },
 
