@@ -29,6 +29,8 @@
         <string>#000000</string>
         <key>inactiveSelection</key>
         <string>#839496</string>
+        <key>activeGuide</key>
+        <string>#0F050FB0</string>
       </dict>
     </dict>
     <dict>

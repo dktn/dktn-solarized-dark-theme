@@ -61,9 +61,9 @@
     {
         "class": "tab_control",
         "attributes": ["selected"],
-        "layer0.tint": [133, 153, 0],
-        "layer1.tint": [133, 153, 0],
-        "layer2.tint": [133, 153, 0],
+        "layer0.tint": [54,  66, 192],
+        "layer1.tint": [54,  66, 192],
+        "layer2.tint": [54,  66, 192],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0
@@ -165,7 +165,7 @@
     {
         "class": "tab_close_button",
         "settings": ["show_tab_close_buttons"],
-        "content_margin": [8, 8]
+        "content_margin": [0, 8]
     },
     {
         "class": "tab_close_button",
@@ -189,7 +189,7 @@
         "class": "tab_close_button",
         "settings": ["!show_tab_close_buttons"],
         "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
-        "content_margin": [8, 8]
+        "content_margin": [0, 8]
     },
     {
         "class": "tab_close_button",
@@ -338,6 +338,7 @@
         "layer0.texture": "Theme - Dktn SolarizedDark/Dktn SolarizedDark/standard-scrollbar-vertical.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 6],
+        "layer0.tint": [0, 255, 255],
         "blur": false
     },
     // Standard horizontal scroll bar
@@ -346,6 +347,7 @@
         "attributes": ["horizontal"],
         "layer0.texture": "Theme - Dktn SolarizedDark/Dktn SolarizedDark/standard-scrollbar-horizontal.png",
         "layer0.inner_margin": [6, 2],
+        "layer0.tint": [0, 255, 255],
         "blur": false
     },
     // Standard scroll bar corner
@@ -456,8 +458,8 @@
 
     {
         "class": "grid_layout_control",
-        "border_size": 1,
-        "border_color": [70, 70, 70]
+        "border_size": 0,
+        "border_color": [0, 70, 70]
     },
 
 //
@@ -467,7 +469,7 @@
     {
         "class": "minimap_control",
         "settings": ["always_show_minimap_viewport"],
-        "viewport_color": [255, 255, 255, 35],
+        "viewport_color": [255, 255, 255, 15],
         "viewport_opacity": 1.0
     },
     {
@@ -503,7 +505,7 @@
 
     {
         "class": "progress_bar_control",
-        "layer0.tint": [181, 137, 0],
+        "layer0.tint": [1, 137, 0],
         "layer0.opacity": 1.0
     },
     {
