@@ -594,9 +594,9 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.tint": [0, 43, 54],
-        "layer1.tint": [0, 43, 54],
-        "layer2.tint": [0, 43, 54],
+        "layer0.tint": [0, 39, 48],
+        "layer1.tint": [0, 39, 48],
+        "layer2.tint": [0, 39, 48],
         "layer0.opacity": 1.0,
         "layer1.opacity": 1.0,
         "layer2.opacity": 1.0,

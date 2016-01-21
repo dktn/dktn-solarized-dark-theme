@@ -44,19 +44,19 @@ red     c23230
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#002b36</string>
+				<string>#002730</string>
 				<key>caret</key>
 				<string>#eee8d5</string>
 				<key>foreground</key>
 				<string>#FFFFFF0A</string>
 				<key>gutter</key>
-				<string>#072F3A</string>
+				<string>#082F38</string>
 				<key>gutterForeground</key>
 				<string>#405f67</string>
 				<key>invisibles</key>
 				<string>#586e75</string>
 				<key>lineHighlight</key>
-				<string>#073642</string>
+				<string>#002A34</string>
 				<key>selection</key>
 				<string>#2c4c55</string>
 				<key>selectionBorder</key>
