@@ -210,7 +210,7 @@ red     c23230
 			<dict>
 				<key>foreground</key>
 				<!-- <string>#268bd2</string> -->
-				<string>#b58900</string>
+				<string>#c58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -278,7 +278,7 @@ red     c23230
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b58900</string>
+				<string>#858900</string>
 			</dict>
 		</dict>
 		<dict>
