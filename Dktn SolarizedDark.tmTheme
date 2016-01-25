@@ -107,7 +107,7 @@ red     c23230
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2aa198</string>
+				<string>#336b98</string>
 			</dict>
 		</dict>
 		<dict>
@@ -152,7 +152,7 @@ red     c23230
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#268bd2</string>
+				<string>#2aa198</string>
 			</dict>
 		</dict>
 		<dict>
@@ -394,7 +394,7 @@ red     c23230
 				<string>#6e2e32</string>
 			</dict>
 		</dict>
-		<dict>
+<!-- 		<dict>
 			<key>name</key>
 			<string>Quoted String</string>
 			<key>scope</key>
@@ -404,8 +404,8 @@ red     c23230
 				<key>foreground</key>
 				<string>#2aa198</string>
 			</dict>
-		</dict>
-		<dict>
+		</dict> -->
+<!-- 		<dict>
 			<key>name</key>
 			<string>Quoted Single</string>
 			<key>scope</key>
@@ -415,7 +415,7 @@ red     c23230
 				<key>foreground</key>
 				<string>#839496</string>
 			</dict>
-		</dict>
+		</dict> -->
 		<dict>
 			<key>name</key>
 			<string>[]</string>
